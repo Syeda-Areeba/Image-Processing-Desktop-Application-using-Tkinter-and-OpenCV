@@ -6,6 +6,7 @@ This Image Processing Application is a versatile tool built using Python's Tkint
 
 - **Image and Video Upload**: Upload media files in various formats.
 - **Image Processing Techniques**: Apply multiple image processing techniques including:
+  
   - Thresholding
   - Histogram Equalization
   - Averaging Filter
